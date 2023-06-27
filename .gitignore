@@ -1,0 +1,7 @@
+/__pycache__/
+/.venv/
+sandbox.py
+/pbi_visuals/
+/output/
+/output_copy/
+.env
